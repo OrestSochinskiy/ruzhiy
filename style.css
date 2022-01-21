@@ -1,0 +1,15 @@
+#divka {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.boldText{
+    color: yellow;
+}
+
+.myOwnClass {
+    border: 2px solid red;
+    color: aqua;
+    font-size: 30px;
+}
